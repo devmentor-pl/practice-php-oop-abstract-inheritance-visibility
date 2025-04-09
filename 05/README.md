@@ -4,7 +4,7 @@
 
 # `#05` PHP & OOP (5-10): Abstract, Inheritance, Visibility
 
-Wykorzystując więdzę z poprzednich zadań zaimplementuj system dostawy jedzenia, który będzie korzystał z 4 filarów OOP tj. abstrakcji, dziedziczenia, enkapsulacji oraz polimorfizmu.
+Wykorzystaj więdzę z poprzednich zadań i zaimplementuj system dostawy jedzenia, który będzie korzystał z 4 filarów OOP tj. abstrakcji, dziedziczenia, enkapsulacji oraz polimorfizmu.
 
 
 Dołóż do tego [Zasadę jednej odpowiedzialności](https://pl.wikipedia.org/wiki/Zasada_jednej_odpowiedzialno%C5%9Bci) tj. każdy obiekt/klasa realizuję jeden proces.
@@ -21,7 +21,7 @@ Zakładamy, że sklep posiada kilka rodzajów produktów:
 - burger
 - sushi
 
-W jaki sposób przygotujesz implementację, aby realizacja całego zamówienia była możliwa i efektywna?
+W jaki sposób przygotujesz implementację, aby realizacja całego zamówienia była efektywna i zgodna z poznanymi zasadami?
 
 
 &nbsp;
