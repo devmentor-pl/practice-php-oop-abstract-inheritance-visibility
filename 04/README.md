@@ -10,7 +10,7 @@ Dziedziczenie pozwala jednej klasie przejąć właściwości i metody innej klas
 
 Jeśli nie wykonałeś tego projektu w ten sposób to spróbuj w tym miejscu napisać przynajmniej 2 metody, które będą mogłby być dziedziczone w klasach potomnych. 
 
-PS. Może przyda Ci się funkcja [get_object_vars()](https://www.php.net/manual/en/function.get-object-vars.php), która pobiera wszystkie publiczne właściwości w obiekcie.
+PS. Może przyda Ci się funkcja [get_object_vars()](https://www.php.net/manual/en/function.get-object-vars.php), która pobiera wszystkie publiczne właściwości w obiekcie. Możesz też wykorzystać "magiczne metody" [__set() oraz __get()](https://www.php.net/manual/en/language.oop5.overloading.php#language.oop5.overloading.members) jeśli będzie to dla Ciebie wygodniejsze.
 
 
 &nbsp;
